@@ -1,2 +1,2 @@
 # grid-system-basics
-grid system with css
+12 grid system with css
